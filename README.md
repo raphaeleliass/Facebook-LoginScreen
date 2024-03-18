@@ -1,18 +1,26 @@
 ![badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![badges](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# Clone da Página de Login do Facebook
+# Clone da Página de Login do Facebook 🎨
 
 Este é um clone da página de login do Facebook desenvolvido usando apenas HTML e Tailwind CSS.
 
 
-## Tecnologias Utilizadas
+
+
+## Tecnologias Utilizadas ⚙️
 
 - HTML
 - Tailwindcss
 
 
-## Capturas de Tela
+## URL do projeto 🌐
+
+
+Confira o projeto [clicando aqui](https://raphaeleliass.github.io/Facebook-LoginScreen/)
+
+
+## Capturas de Tela 📸
 
 
 <p align="center">
@@ -23,14 +31,14 @@ Este é um clone da página de login do Facebook desenvolvido usando apenas HTML
 </p>
 
 
-## Contribuição
+## Contribuição 🤝
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar solicitações de pull.
 
-## Licença
+## Licença ⚖️
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Contato
+## Contato ✉️
 
 Entre em contato comigo pelo email: raphaeleliass@outlook.com.
