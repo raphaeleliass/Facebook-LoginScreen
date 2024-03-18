@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-home{
+    @apply p-3 rounded-lg border-[1px] border-gray-400 w-full
+}
