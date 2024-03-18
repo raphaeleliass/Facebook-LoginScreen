@@ -17,7 +17,7 @@ Este é um clone da página de login do Facebook desenvolvido usando apenas HTML
 ## URL do projeto 🌐
 
 
-Confira o projeto [clicando aqui](https://raphaeleliass.github.io/Facebook-LoginScreen/).
+Confira o projeto Confira o projeto <a href="https://raphaeleliass.github.io/Facebook-LoginScreen/" target="_blank">clicando aqui</a>.
 
 
 ## Capturas de Tela 📸
